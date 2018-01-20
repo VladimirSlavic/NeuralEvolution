@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NeuroEvolution"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NeuroEvolution">
+				<Option output="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/NeuroEvolution" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 NeuroEvolution"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NeuroEvolution/fast">
+				<Option output="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/NeuroEvolution" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 NeuroEvolution/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/elrond/CLionProjects/NeuralEvolution/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/data/dataset.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/evolution_engine/engine.cpp">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/evolution_engine/engine.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/chromosome.cpp">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/chromosome.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/crossover_operators/abstract_crossover.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/crossover_operators/arithmetic_crossover.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/crossover_operators/selection_crossover.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/crossover_operators/uniform_crossover.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/mutation_operators/abstract_mutation.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/mutation_operators/add_mutation.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/mutation_operators/switch_mutation.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/population.cpp">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/genetics/population.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/main.cpp">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/neural/neural_network.cpp">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/neural/neural_network.h">
+			<Option target="NeuroEvolution"/>
+		</Unit>
+		<Unit filename="/home/elrond/CLionProjects/NeuralEvolution/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
